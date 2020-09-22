@@ -1,0 +1,64 @@
+{
+	"MaxColIndex": "ZZ",
+	"FuelList":	
+		["Benzin",
+		"Benz\u00edn",
+		"Hybrid BA"],
+	"FuelListEnd":	
+		["Ostatní",
+		"Nezařazeno",
+		"Jiný"],
+	"ModelOrBrandList":
+		["Typ",
+		"Značka"],
+	"ModelOrBrandSkipList":
+		["Jiné značky"],
+	"ColoursEndList":
+		["ks",
+		"Ks"],
+	"OldBrandsAgeList":
+		["Do 1"],
+	"ExtraPattern":
+		[[ "RANGE ROVER" , "Land Rover"]],
+	"Words":
+		["Land Rover"],
+	"sheetsBrands" : [ 
+		"OA za měsíc",
+		"OA za měsíc   Jiné značky",
+		"LUV za měsíc",
+		"LUV za měsíc   Jiné značky",
+		"Ojetiny OA za měsíc",
+		"Ojetiny OA za měsíc jiné"],
+		"sheetsModels" : [ 
+		"OA Paliva za měsíc Mini",
+		"OA Paliva za měsíc Malé",
+		"OA Paliva za měsíc Nižší střední",
+		"OA Paliva za měsíc Střední",
+		"OA Paliva za měsíc Vyšší střední",
+		"OA Paliva za měsíc Luxusní",
+		"OA Paliva za měsíc Sportovní",
+		"OA Paliva za měsíc SUV B",
+		"OA Paliva za měsíc SUV C",
+		"OA Paliva za měsíc SUV D",
+		"OA Paliva za měsíc SUV E",
+		"OA Paliva za měsíc MPV",
+		"OA Paliva za měsíc MPV B",
+		"OA Paliva za měsíc MPV C",
+		"OA Paliva za měsíc MPV E",
+		"OA Paliva za měsíc Terénní",
+		"Hybridy za měsíc",
+		"LUV Paliva za měsíc Do 2 0 t",
+		"LUV Paliva za měsíc Do 3 0 t",
+		"LUV Paliva za měsíc Do 3 5 t"],
+	"sheetsTypes" : [ 
+		"OA Podíl tříd"],  
+	"sheetFuel" : [ 
+		"OA Paliva za měsíc Mini",
+		"Hybridy za měsíc"], 
+	"sheetColorTypes" : [ 
+		"Barvy OA Měsíc",
+		"Barvy OA Měsíc Ostatní"],
+	"sheetOldBrands" : [ 
+		"Ojetiny OA za měsíc",
+		"Ojetiny OA za měsíc jiné"]
+}
